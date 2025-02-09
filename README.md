@@ -1,5 +1,15 @@
-## Hi there 👋
+## Привет!👋
 
+Меня зовут Гафурзянов Зульфат, я начинающий backend-разработчик. Моя специализация — Python и Django.
+
+## Контакты
+
+   📫 Если у вас есть вопросы или предложения, свяжитесь со мной:
+
+   - Email: gafurzyanov.zulfat@gmail.com
+   - Telegram: @Zulfat_Gafurzyanov
+
+   😄 Спасибо за визит!
 <!--
 **Zulfat-Gafurzyanov/Zulfat-Gafurzyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
