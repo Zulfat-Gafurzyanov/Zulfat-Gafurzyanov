@@ -7,6 +7,7 @@
 ### ✨ Языки программирования и технологии:
    - Python
    - Django
+   - DRF
    - SQL
    - HTML/CSS
 
