@@ -5,16 +5,10 @@
 ## Навыки
 
 ### ✨ Языки программирования и технологии:
-   - Python
-   - Django
-   - DRF
-   - SQL
-   - HTML/CSS
-   - Docker
+   - Python, Django, DRF, HTML/CSS, Docker, Nginx
 
 ### ✨ Базы данных:
-   - MySQL
-   - PostgreSQL
+   - MySQL, PostgreSQL
 
 ### ✨ Тестирование:
    - Unit Testing (unittest, pytest)
@@ -22,13 +16,10 @@
 ### ✨ Безопасность:
    - CSRF
 
-### ✨ Работа с сервером:
-   - WSGI-сервер (Gunicorn)
-   - веб-сервер (Nginx)
-
 ### Soft Skills:
    - Коммуникабельность
    - Решение проблем
+   - Ответственность и внимательность к деталям
 
 ## Контакты
 
