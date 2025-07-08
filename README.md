@@ -10,9 +10,11 @@
    - DRF
    - SQL
    - HTML/CSS
+   - Docker
 
 ### ✨ Базы данных:
    - MySQL
+   - PostgreSQL
 
 ### ✨ Тестирование:
    - Unit Testing (unittest, pytest)
@@ -31,11 +33,10 @@
 ## Контакты
 
    📫 Если у вас есть вопросы или предложения, свяжитесь со мной:
-
    - Email: gafurzyanov.zulfat@yandex.ru
    - Telegram: @Zulfat_Gafurzyanov
 
-   😄 Спасибо за визит!
+   😄 Спасибо за визит! Буду рад сотрудничеству и новым знакомствам.
 <!--
 **Zulfat-Gafurzyanov/Zulfat-Gafurzyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
