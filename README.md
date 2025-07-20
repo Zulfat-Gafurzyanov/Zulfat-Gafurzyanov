@@ -25,7 +25,7 @@
 
    📫 Если у вас есть вопросы или предложения, свяжитесь со мной:
    - Email: gafurzyanov.zulfat@yandex.ru
-   - Telegram: t.me/Zulfat_Gafurzyanov
+   - Telegram: [t.me/Zulfat_Gafurzyanov](https://t.me/Zulfat_Gafurzyanov)
    - linkedin: www.linkedin.com/in/zulfat-gafurzyanov
 
    😄 Спасибо за визит! Буду рад сотрудничеству и новым знакомствам.
