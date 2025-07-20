@@ -5,7 +5,7 @@
 ## Навыки
 
 ### ✨ Навыки:
-   - Python, Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, MySQL, PostgreSQL, unittest, pytest, JWT, Djoser
+   - Python, Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, CI/CD, MySQL, PostgreSQL, unittest, pytest, JWT, Djoser
 
 ## Обо мне:
 Python-разработчик с высокой мотивацией и ответственностью. Постоянно развиваю свои
