@@ -2,20 +2,22 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я backend-разработчик</h3>
 
+
 ## Навыки:
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-   - Python, Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, CI/CD, MySQL, PostgreSQL, unittest, pytest, JWT, Djoser
+   Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, CI/CD, , unittest, pytest, JWT, Djoser
 
-## Базы данных: 
+## Базы данных:   
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
-## Обо мне:
+## Обо мне:      
+
 Python-разработчик с высокой мотивацией и ответственностью. Постоянно развиваю свои
 технические знания и интересуюсь новыми технологиями. Способен быстро
 адаптироваться к новым условиям и командной работе. Люблю решать интересные задачи
