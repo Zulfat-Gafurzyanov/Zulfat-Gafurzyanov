@@ -6,7 +6,7 @@
 
 ### ✨ Навыки:
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 
    - Python, Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, CI/CD, MySQL, PostgreSQL, unittest, pytest, JWT, Djoser
 
