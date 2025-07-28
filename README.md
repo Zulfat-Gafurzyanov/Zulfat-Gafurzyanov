@@ -1,14 +1,19 @@
-## Привет!👋
+<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Зульфат</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я backend-разработчик</h3>
 
-Меня зовут Зульфат, я начинающий backend-разработчик, прошел курс Python-разработчик от Яндекс.Практикум. Ищу работу.
+## Навыки:
 
-## Навыки
-
-### ✨ Навыки:
-
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
    - Python, Django, DRF, HTML/CSS, Docker, Gunicorn, Nginx, CI/CD, MySQL, PostgreSQL, unittest, pytest, JWT, Djoser
+
+## Базы данных: 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ## Обо мне:
 Python-разработчик с высокой мотивацией и ответственностью. Постоянно развиваю свои
