@@ -27,7 +27,6 @@
 - Проектирование и разработка RESTful API
 - Работа с ORM (Django ORM)
 - Разработка Telegram-ботов (**aiogram**) и Mini Apps
-  выполненный проект: *https://t.me/phone_parts_catalog_bot*
 - Интеграция с внешними API и сервисами
 - Написание чистого, документированного кода
 - Code review и рефакторинг legacy кода
